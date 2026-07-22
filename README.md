@@ -77,7 +77,9 @@ Outside of software engineering, I enjoy:
 
 - 🚀 Entrepreneurship
 - 🤖 Artificial Intelligence
+- 🎵 Producing music in FL Studio  
 - 🍕 Pizza Making
+- 🍗 Cooking ridiculously good chicken (fried, baked, grilled—you name it)
 - 🎥 Digital Content Creation
 - 📈 Building Products That Scale
 
