@@ -35,22 +35,22 @@ I enjoy designing AI agents, developing machine learning solutions, and creating
 ### 🤖 AI Marketing Agent Platform
 Production-ready multi-agent AI system that automates marketing strategy, content generation, and workflow execution.
 
-➡️ *View Repository*
+➡️ *private*
 
 ### 🏠 Airbnb Superhost Prediction
 Machine learning classification model that predicts Airbnb Superhost status using feature engineering, model evaluation, and hyperparameter tuning.
 
-➡️ *View Repository*
+➡️ *private*
 
 ### 📈 Customer Churn Prediction
 Predictive machine learning model that identifies customers at risk of churning using multiple classification algorithms.
 
-➡️ *View Repository*
+➡️ *private*
 
 ### 🎬 DeadSocksy
 Founded and scaled a digital media brand reaching **4.5M+ impressions**, **1.5M+ downloads**, and over **10,000 positive reviews** through automation, analytics, and content optimization.
 
-➡️ *View Repository*
+➡️ *private*
 
 ---
 
@@ -58,7 +58,7 @@ Founded and scaled a digital media brand reaching **4.5M+ impressions**, **1.5M+
 
 - 🎓 Break Through Tech AI Fellow — Cornell Tech
 - 📜 Cornell Machine Learning Foundations Certificate
-- 🥇 Texas Tech President's List
+- 🥇 Texas Tech President's List, 4.0 GPA
 
 ---
 
@@ -85,9 +85,9 @@ Outside of software engineering, I enjoy:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add Link)*
-- 🌐 Portfolio: *(Add Link)*
-- 📧 Email: *(Add Email)*
+- 💼 LinkedIn: *(www.linkedin.com/in/ethan-kemeny-)*
+- 🌐 Portfolio: *(coming soon)*
+- 📧 Email: *(ethan.kemeny1@gmail.com)*
 
 ---
 
