@@ -118,12 +118,13 @@ Collaborating with an industry partner through the Break Through Tech AI Fellows
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=e-kemeny&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-kemeny&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=e-kemeny&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-kemeny&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=e-kemeny&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=e-kemeny&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
