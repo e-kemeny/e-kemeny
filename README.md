@@ -1,105 +1,166 @@
 # Hi, I'm Ethan Kemeny 👋
 
-🤖 AI/ML Engineer | Computer Science @ Texas Tech University  
-🎓 Break Through Tech AI Fellow @ Cornell Tech
+### AI/ML Engineer • Computer Science @ Texas Tech University • Break Through Tech AI Fellow @ Cornell Tech
 
-Building AI-powered software, machine learning systems, and automation that solve real-world problems.
+> *"My favorite projects all begin with one question: **There has to be a better way.**"*
 
----
+I'm a Computer Science student focused on building intelligent systems that solve real-world problems. My work spans machine learning, AI agents, backend development, retrieval-augmented generation (RAG), and automation, with an emphasis on turning complex ideas into practical, scalable software.
 
-## 🚀 About Me
-
-I'm a Computer Science student at Texas Tech University and a Break Through Tech AI Fellow at Cornell Tech, where I focus on building AI agents, machine learning models, and intelligent software systems.
-
-My favorite projects all begin with one question:
-
-> **"There has to be a better way."**
-
-Whether it's designing production-ready AI workflows, training predictive models, or automating repetitive tasks, I enjoy building technology that creates measurable impact. I'm always looking for opportunities to learn, solve challenging problems, and turn ideas into real products.
+Currently, I'm an **AI/ML Engineering Intern at Klyc**, where I contribute to production AI systems, and a **Break Through Tech AI Fellow**, collaborating on an industry-sponsored AI Studio project.
 
 ---
 
-## 📚 Currently Working On
+## 🚀 What I'm Working On
 
-- 🤖 AI Studio Industry Project
-- 🧠 Deep Learning
-- ⚡ Multi-Agent AI Systems
+- 🤖 Multi-Agent AI Systems
+- 🧠 Machine Learning & Deep Learning
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 💻 LeetCode & Technical Interview Preparation
+- ⚡ AI Automation & Backend Development
+- 💻 Data Structures & Algorithms
+- 📚 Expanding my software engineering and AI skill set every day
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • Java • C • MASM
 
-### Machine Learning & AI
-Scikit-Learn • Pandas • NumPy • OpenAI API • RAG • Prompt Engineering
+- Python
+- Java
+- C
+- MASM Assembly
 
-### Tools & Technologies
-Git • GitHub • VS Code • Supabase • PostgreSQL • Deno
+### AI & Machine Learning
 
----
+- Scikit-Learn
+- Pandas
+- NumPy
+- OpenAI API
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Optimization
 
-## 🌟 Featured Projects
+### Backend & Tools
 
-### 🤖 AI Marketing Agent Platform *(Private)*
-Production-ready multi-agent AI platform that automates marketing strategy, content generation, and workflow execution through structured AI pipelines.
-
-**Tech:** TypeScript • Supabase • Deno • OpenAI
-
----
-
-### 🏠 Airbnb Superhost Prediction *(Private)*
-Built and evaluated multiple machine learning classification models to predict Airbnb Superhost status using feature engineering, hyperparameter tuning, and model evaluation.
-
-**Tech:** Python • Scikit-Learn • Pandas
-
----
-
-### 📈 Customer Churn Prediction *(Private)*
-Developed predictive machine learning models to identify customers at risk of churning while comparing multiple classification algorithms and evaluation metrics.
-
-**Tech:** Python • Scikit-Learn • Pandas
+- TypeScript
+- PostgreSQL
+- Supabase
+- Deno
+- Git
+- GitHub
 
 ---
 
-### 🎬 DeadSocksy
-Founded and scaled a digital media brand reaching:
+## 💼 Professional Experience
 
-- 📈 4.5M+ lifetime impressions
-- 📥 1.5M+ downloads
-- ⭐ 10,000+ positive reviews
+### AI/ML Engineering Intern — Klyc
 
-Leveraged automation, analytics, SEO, and AI-powered workflows to grow digital products and online communities.
+- Develop production multi-agent AI workflows for marketing automation
+- Design structured LLM pipelines and validation systems for reliable AI outputs
+- Improve backend reliability through typed workflows and scalable infrastructure
+- Collaborate across research, strategy, copy, and image generation agents
+
+---
+
+### Break Through Tech AI Fellow — Cornell Tech
+
+Selected from **4,300+ applicants** for a competitive 12-month AI fellowship.
+
+Current work includes:
+
+- Collaborating on an industry AI Studio project
+- Building real-world machine learning solutions
+- Working alongside engineers, mentors, and industry partners
+- Strengthening both technical and professional AI skills
+
+---
+
+## 🔒 Private Work
+
+Much of my recent experience has involved production systems and industry-sponsored projects that cannot be shared publicly.
+
+These include:
+
+### 🤖 AI Marketing Agent Platform — Klyc
+
+Contributed to a production multi-agent AI platform for marketing automation by developing structured LLM workflows, backend validation systems, and scalable AI infrastructure.
+
+> Although the source code is proprietary, I'm actively building public projects that demonstrate the same technologies and engineering principles.
+
+### 🧠 AI Studio Industry Project
+
+Collaborating with an industry partner through the Break Through Tech AI Fellowship to develop a real-world AI solution while working alongside engineers, mentors, and fellow AI practitioners.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 Break Through Tech AI Fellow — Cornell Tech *(Selected from 4,300+ applicants)*
+- 🎓 Break Through Tech AI Fellow — Cornell Tech
 - 📜 Cornell Machine Learning Foundations Certificate
-- 🥇 Texas Tech President's List (4.0 GPA)
+- 🏅 President's List — Texas Tech University
 
 ---
 
-## 🎯 Beyond the Keyboard
+## 🤝 Professional Skills
+
+- Problem Solving
+- Technical Communication
+- Cross-Functional Collaboration
+- Research & Experimentation
+- Product Thinking
+- Agile Development
+- AI System Design
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=e-kemeny&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-kemeny&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=e-kemeny&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- Software Architecture
+- System Design
+- Distributed AI Systems
+- Large Language Models
+- Advanced Algorithms
+
+---
+
+## 🎯 Career Goals
+
+I'm seeking opportunities to build impactful AI products, contribute to production software, and continue growing as a machine learning and software engineer.
+
+---
+
+## 🎵 Beyond the Keyboard
 
 When I'm not coding, you'll usually find me:
 
+- 🏀 Playing basketball, ⚾ baseball, and ⚽ soccer
 - 🎵 Producing music in FL Studio
 - 🍗 Cooking (especially chicken)
-- 🍜 Perfecting my Pad Thai recipe
-- 🍕 Making Neapolitan pizza from scratch
+- 🍕 Making New York and Neapolitan pizza from scratch
 - 🚀 Building businesses and side projects
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/ethan-kemeny-
+💼 **LinkedIn:** https://www.linkedin.com/in/ethan-kemeny-
 
-🌐 Portfolio: *(Coming Soon)*
+📧 **Email:** ethan.kemeny1@gmail.com
 
-📧 Email: ethan.kemeny1@gmail.com
+Thanks for stopping by! Feel free to explore my repositories or connect with me.
