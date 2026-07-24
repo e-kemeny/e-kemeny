@@ -161,6 +161,6 @@ When I'm not coding, you'll usually find me:
 
 📧 **Email:** ethan.kemeny1@gmail.com
 
-🌐 **Website:** ethankemeny.com
+🌐 **Website:** [ethankemeny.com] (https://www.ethankemeny.com/)
 
 Thanks for stopping by! Feel free to explore my repositories or connect with me.
