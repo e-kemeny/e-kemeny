@@ -119,8 +119,8 @@ Collaborating with an industry partner through the Break Through Tech AI Fellows
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=e-kemeny&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Ethan's GitHub stats"
+    src="https://streak-stats.demolab.com?user=e-kemeny&theme=github-dark&hide_border=true"
+    alt="Ethan's GitHub contribution streak"
   />
 </p>
 
