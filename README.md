@@ -1,10 +1,10 @@
 <a href="https://ethankemeny.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1800&color=39FF88&background=00000000&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Ethan+Kemeny.;Transforming+possibility+into+purpose." alt="Hi, I'm Ethan Kemeny. Transforming possibility into purpose." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1800&color=39FF88&background=00000000&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Ethan.;Welcome+to+my+corner+of+GitHub." alt="Hey, I'm Ethan. Welcome to my corner of GitHub." />
 </a>
 
 ### AI/ML Engineer • Computer Science @ Texas Tech University • Break Through Tech AI Fellow @ Cornell Tech
 
-> *"My favorite projects all begin with one question: **There has to be a better way.**"*
+> *"My favorite projects all begin with one idea: **Transforming possibility into purpose.**"*
 
 I'm a Computer Science student focused on building intelligent systems that solve real-world problems. My work spans machine learning, AI agents, backend development, retrieval-augmented generation (RAG), and automation, with an emphasis on turning complex ideas into practical, scalable software.
 
