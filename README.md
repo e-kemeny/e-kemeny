@@ -79,21 +79,41 @@ Current work includes:
 
 ---
 
-## 🔒 Private Work
+## 🧩 Projects & Private Work
 
-Much of my recent experience has involved production systems and industry-sponsored projects that cannot be shared publicly.
+### 🎬 Automated Content Pipeline
 
-These include:
+Building a Python pipeline to automate video analysis and clip generation. Current development includes FFmpeg-based video processing, duration inspection, and clip extraction, with plans for shared multimodal analysis across short-form and long-form content.
+
+**Technologies:** Python, FFmpeg, ffprobe
+
+🔗 [View Repository](https://github.com/e-kemeny/automated-content-pipeline)
+
+### 🧠 HackWesTX 2026 — 404 Brain Not Found
+
+Built an AI tutoring application during HackWesTX 2026, combining AI-powered learning assistance with authentication and blockchain integration.
+
+**Technologies:** Gemini, Auth0, Solana
+
+🔗 [View Repository](https://github.com/e-kemeny/hackwestx-2026-404_Brain_Not_Found)
+
+### ⚙️ Personal AI Engineering
+
+A collection of hands-on AI engineering work focused on understanding how models work beneath the abstractions. Includes a Word2Vec implementation using PyTorch, skip-gram, and negative sampling.
+
+**Technologies:** Python, PyTorch
+
+🔗 [View Repository](https://github.com/e-kemeny/personal-ai-engineering)
 
 ### 🤖 AI Marketing Agent Platform — Klyc
 
-Contributed to a production multi-agent AI platform for marketing automation by developing structured LLM workflows, backend validation systems, and scalable AI infrastructure.
+Contribute to a proprietary production AI marketing platform through LLM orchestration, retrieval workflows, backend validation, and regression testing.
 
-> Although the source code is proprietary, I'm actively building public projects that demonstrate the same technologies and engineering principles.
+### 🔍 Microsoft × Break Through Tech AI Studio
 
-### 🧠 AI Studio Industry Project
+Collaborate with Microsoft mentors to investigate trust signals in open-source repositories. My focus is viral and temporal repository analysis: examining activity over time, growth spikes, and maintenance patterns.
 
-Collaborating with an industry partner through the Break Through Tech AI Fellowship to develop a real-world AI solution while working alongside engineers, mentors, and fellow AI practitioners.
+> Some production and industry project work is not publicly available. My public repositories demonstrate related interests in AI, automation, and software engineering.
 
 ---
 
