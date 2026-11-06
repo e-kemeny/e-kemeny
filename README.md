@@ -1,5 +1,5 @@
 <a href="https://ethankemeny.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1800&color=39FF88&background=00000000&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Ethan.;Welcome+to+my+corner+of+GitHub." alt="Hey, I'm Ethan. Welcome to my corner of GitHub." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1800&color=39FF88&background=00000000&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Ethan.;Welcome+to+my+corner+of+GitHub.;Click+here+to+visit+my+website+%E2%86%97" alt="Hey, I'm Ethan. Click to visit my website." />
 </a>
 
 ### AI/ML Engineer • Computer Science @ Texas Tech University • Break Through Tech AI Fellow @ Cornell Tech
