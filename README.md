@@ -1,4 +1,6 @@
-# Hi, I'm Ethan Kemeny 👋
+<a href="https://ethankemeny.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2800&pause=1800&color=39FF88&background=00000000&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Ethan+Kemeny.;Transforming+possibility+into+purpose." alt="Hi, I'm Ethan Kemeny. Transforming possibility into purpose." />
+</a>
 
 ### AI/ML Engineer • Computer Science @ Texas Tech University • Break Through Tech AI Fellow @ Cornell Tech
 
