@@ -70,12 +70,8 @@ Currently, I'm an **AI/ML Engineering Intern at Klyc**, where I contribute to pr
 
 Selected from **4,300+ applicants** for a competitive 12-month AI fellowship.
 
-Current work includes:
-
-- Collaborating on an industry AI Studio project
-- Building real-world machine learning solutions
-- Working alongside engineers, mentors, and industry partners
-- Strengthening both technical and professional AI skills
+- Earned Cornell University’s Machine Learning Foundations Credential after completing 135 hours of training.
+- Advanced to AI Studio and led exploratory data analysis and temporal analysis across 166 public GitHub repositories for a Microsoft-sponsored project on repository trust signals.
 
 ---
 
@@ -113,6 +109,8 @@ Contribute to a proprietary production AI marketing platform through LLM orchest
 ### 🔍 Microsoft × Break Through Tech AI Studio
 
 Collaborate with Microsoft mentors to investigate trust signals in open-source repositories. My focus is viral and temporal repository analysis: examining activity over time, growth spikes, and maintenance patterns.
+
+🔗 [View the AI Studio project](https://github.com/Break-Through-Tech/Microsoft-3B-github-repo-trust-signals)
 
 > Some production and industry project work is not publicly available. My public repositories demonstrate related interests in AI, automation, and software engineering.
 
