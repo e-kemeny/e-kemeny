@@ -89,13 +89,14 @@ Building a Python pipeline to automate video analysis and clip generation. Curre
 
 🔗 [View Repository](https://github.com/e-kemeny/automated-content-pipeline)
 
-### 🧠 HackWesTX 2026 — 404 Brain Not Found
+### 🧠 AURA — Adaptive Understanding & Retrieval Assistant
 
-Built an AI tutoring application during HackWesTX 2026, combining AI-powered learning assistance with authentication and blockchain integration.
+Our team won **Best Use of Backboard** at HackWesTX VII for AURA, an adaptive AI tutor. I built a retrieval system that combines course materials with each student’s mastery data to generate personalized practice questions.
 
-**Technologies:** Gemini, Auth0, Solana
+**Technologies:** Backboard, Gemini, RAG, Auth0, Solana
 
-🔗 [View Repository](https://github.com/e-kemeny/hackwestx-2026-404_Brain_Not_Found)
+🔗 [GitHub Repository](https://github.com/e-kemeny/hackwestx-2026-404_Brain_Not_Found)
+🏆 [Devpost](https://devpost.com/software/aura-4dtl71)
 
 ### ⚙️ Personal AI Engineering
 
