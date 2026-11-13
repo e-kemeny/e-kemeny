@@ -12,6 +12,16 @@ Currently, I'm an **AI/ML Engineering Intern at Klyc**, where I contribute to pr
 
 ---
 
+## 📫 Let's Connect
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ethan-kemeny-
+
+📧 **Email:** ethan.kemeny1@gmail.com
+
+🌐 **Website:** https://www.ethankemeny.com
+
+---
+
 ## 🚀 What I'm Working On
 
 - 🤖 Multi-Agent AI Systems
@@ -173,15 +183,3 @@ When I'm not coding, you'll usually find me:
 - 🍗 Cooking (especially chicken)
 - 🍕 Making New York and Neapolitan pizza from scratch
 - 🚀 Building businesses and side projects
-
----
-
-## 📫 Let's Connect
-
-💼 **LinkedIn:** https://www.linkedin.com/in/ethan-kemeny-
-
-📧 **Email:** ethan.kemeny1@gmail.com
-
-🌐 **Website:** https://www.ethankemeny.com
-
-Thanks for stopping by! Feel free to explore my repositories or connect with me.
